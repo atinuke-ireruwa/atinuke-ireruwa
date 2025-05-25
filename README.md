@@ -6,16 +6,20 @@ My commitment to excellent service is driven by an innovative mindset, strategic
 
 👀 Take a peek under the hood! My repos showcase hands-on projects — all built with passion and precision.
 
+***
 💡 Technical Skills & Competencies
 --- 
 
-Data Analysis: Skilled in exploring and interpreting complex datasets using Python (Pandas, NumPy), Excel, and Jupyter Notebooks to extract meaningful insights across industries including healthcare and operations.
+- Data Analysis: Skilled in exploring and interpreting complex datasets using Python (Pandas, NumPy), Excel, and Jupyter Notebooks to extract 
+  meaningful insights across industries including healthcare and operations.
 
-Machine Learning: Proficient in building and evaluating supervised and unsupervised models using Scikit-learn, XGBoost, TensorFlow, and Keras to solve real-world prediction and classification problems.
+- Machine Learning: Proficient in building and evaluating supervised and unsupervised models using Scikit-learn, XGBoost, TensorFlow, and Keras to 
+  solve real-world prediction and classification problems.
 
-Natural Language Processing (NLP): Experienced in text processing, sentiment analysis, topic modeling, and language generation using tools such as spaCy, NLTK, and Hugging Face Transformers.
+- Natural Language Processing (NLP): Experienced in text processing, sentiment analysis, topic modeling, and language generation using tools such as 
+ spaCy, NLTK, and Hugging Face Transformers.
 
-Data Visualization: Adept at translating data into compelling visual stories with Tableau, Power BI, and Excel (PivotTables, charts, dashboards).
+- Data Visualization: Adept at translating data into compelling visual stories with Tableau, Power BI, and Excel (PivotTables, charts, dashboards).
 
 SQL & Database Management: Capable of querying, joining, and managing large datasets in relational databases (MySQL, PostgreSQL) using advanced SQL 
 techniques.
@@ -23,6 +27,8 @@ techniques.
 Tools & Platforms: Jupyter, Git/GitHub, Google Colab, Anaconda, VS Code
 
 Healthcare Informatics: Familiar with Electronic Health Record (EHR) systems and healthcare data standards, with practical experience in improving workflow and operational efficiency.
+
+***
 
 Let’s Connect
 ---
