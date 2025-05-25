@@ -21,12 +21,12 @@ My commitment to excellent service is driven by an innovative mindset, strategic
 
 - Data Visualization: Adept at translating data into compelling visual stories with Tableau, Power BI, and Excel (PivotTables, charts, dashboards).
 
-SQL & Database Management: Capable of querying, joining, and managing large datasets in relational databases (MySQL, PostgreSQL) using advanced SQL 
+- SQL & Database Management: Capable of querying, joining, and managing large datasets in relational databases (MySQL, PostgreSQL) using advanced SQL 
 techniques.
 
-Tools & Platforms: Jupyter, Git/GitHub, Google Colab, Anaconda, VS Code
+- Tools & Platforms: Jupyter, Git/GitHub, Google Colab, Anaconda, VS Code
 
-Healthcare Informatics: Familiar with Electronic Health Record (EHR) systems and healthcare data standards, with practical experience in improving workflow and operational efficiency.
+- Healthcare Informatics: Familiar with Electronic Health Record (EHR) systems and healthcare data standards, with practical experience in improving workflow and operational efficiency.
 
 ***
 
