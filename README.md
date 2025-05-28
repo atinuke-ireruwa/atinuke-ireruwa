@@ -32,7 +32,7 @@ techniques.
 
 Let’s Connect
 ---
-www.linkedin.com/in/aireruwa
+Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=aireruwa
 tinukeireruwa@gmail.com
 
 
