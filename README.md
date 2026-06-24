@@ -18,21 +18,21 @@ My commitment to excellent service is driven by an innovative mindset, strategic
 💡 Technical Skills & Competencies
 --- 
 
-- Data Analysis: Skilled in exploring and interpreting complex datasets using Python (Pandas, NumPy), Excel, and Jupyter Notebooks to extract 
-  meaningful insights across industries including healthcare and operations.
+- Data Analysis: Skilled in exploring and interpreting complex datasets using Python (Pandas, NumPy), R, Excel, and Jupyter Notebooks to extract meaningful insights across government, healthcare and operational research contexts.
 
-- Machine Learning: Proficient in building and evaluating supervised and unsupervised models using Scikit-learn, XGBoost, TensorFlow, and Keras to 
-  solve real-world prediction and classification problems.
+- Machine Learning: Proficient in building and evaluating supervised and unsupervised models using Scikit-learn, XGBoost, TensorFlow, and Keras to solve real-world prediction and classification problems.
 
-- Natural Language Processing (NLP): Experienced in text processing, sentiment analysis, topic modeling, and language generation using tools such as 
- spaCy, NLTK, and Hugging Face Transformers.
+- Natural Language Processing (NLP): Experienced in text processing, sentiment analysis, topic modelling, and language generation using spaCy, NLTK, and Hugging Face Transformers.
 
-- Data Visualization: Adept at translating data into compelling visual stories with Tableau, Power BI, and Excel (PivotTables, charts, dashboards).
+- Agentic AI & LLM Frameworks: Experienced in designing and building agentic AI systems using LangChain and LangGraph, including Retrieval-Augmented Generation (RAG) pipelines that combine large language models with structured knowledge sources to deliver accurate, context-aware outputs.
 
-- SQL & Database Management: Capable of querying, joining, and managing large datasets in relational databases (MySQL, PostgreSQL) using advanced SQL 
-techniques.
+- Data Visualisation: Adept at translating complex data into compelling visual narratives using Tableau, Power BI, and Excel (PivotTables, charts, dashboards).
 
-- Tools & Platforms: Jupyter, Git/GitHub, Google Colab, Anaconda, VS Code
+- SQL & Database Management: Capable of querying, joining, and managing large datasets in relational databases (MySQL, PostgreSQL) using advanced SQL techniques.
+
+- Data Architecture: Experience in designing analytical data models including star schema architecture, and navigating the constraints of large-scale government data systems to develop robust analytical solutions.
+
+- Tools & Platforms: Jupyter, Git/GitHub, Google Colab, Anaconda, VS Code.
 
 - Healthcare Informatics: Familiar with Electronic Health Record (EHR) systems and healthcare data standards, with practical experience in improving workflow and operational efficiency.
 
