@@ -1,6 +1,6 @@
 🙋‍♀️Hi, I am Atinuke Ireruwa
 ------
-A Senior Research Analyst and Operational Researcher working at the intersection of data, policy and criminal justice. With a background in Computer Science and a Master’s in Health Informatics, I bring an analytical lens shaped by both healthcare and government contexts — and a genuine passion for using data to drive meaningful change in public services.
+A Senior Research Analyst and Operational Researcher working at the intersection of data, policy and criminal justice. With a background in Computer Science and a Master’s in Health Informatics, I bring an analytical lens shaped by both healthcare and government contexts with genuine passion for using data to drive meaningful change in public services.
 
 
 
